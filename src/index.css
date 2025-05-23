@@ -2,6 +2,7 @@
 @plugin "daisyui" {
   themes: all;
 }
+
 /* themes: all, lightFood --default, darkFood --prefersdark */
 
 @plugin "daisyui/theme" {
